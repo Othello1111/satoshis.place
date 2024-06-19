@@ -24,8 +24,8 @@
     "micro": "^9.1.4",
     "mongoose": "^5.0.13",
     "pretty-hrtime": "^1.0.3",
-    "socket.io": "^1.7.4",
-    "ws": "^5.1.1"
+    "socket.io": "^2.5.0",
+    "ws": "^5.2.4"
   },
   "devDependencies": {
     "faker": "^4.1.0",
